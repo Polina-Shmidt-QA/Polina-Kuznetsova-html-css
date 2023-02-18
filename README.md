@@ -22,7 +22,7 @@
 [![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-24292f??style=for-the-badge&logo=androidstudio&logoColor=79ae42)](https://github.com/GoodyrevQA)
 [![Allure](https://img.shields.io/badge/-Allure-24292f??style=for-the-badge&logo=Allurer&logoColor=0cff00)](https://github.com/GoodyrevQA)
 [![JMeter](https://img.shields.io/badge/-JMeter-24292f??style=for-the-badge&logo=JMeter&logoColor=ffffff)](https://github.com/GoodyrevQA/JMeter)
-[![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=79ae42)](https://github.com/GoodyrevQA)
+[![WordPress](https://img.shields.io/badge/-WordPress-24292f??style=for-the-badge&logo=WordPress&logoColor=79ae42)](https://github.com/polina-kuznetsova-html-css)
 [![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)](https://github.com/GoodyrevQA?tab=repositories)
 
 ### For communication:
