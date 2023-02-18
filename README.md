@@ -3,7 +3,7 @@
 ## QA Engineer & Python researcher
 
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-24292f??style=for-the-badge&logo=Python&logoColor=47c5fb)](https://github.com/GoodyrevQA/python_tg_bot)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-24292f??style=for-the-badge&logo=Photoshop&logoColor=47c5fb)](https://github.com/GoodyrevQA/python_tg_bot)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-24292f??style=for-the-badge&logo=JavaScript&logoColor=fff600)](https://github.com/GoodyrevQA/SnakeQA)
 [![Miro](https://img.shields.io/badge/-Miro-24292f??style=for-the-badge&logo=Miro&logoColor=ff6c36)](https://miro.com/app/board/uXjVP_77u_w=/)
 [![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
