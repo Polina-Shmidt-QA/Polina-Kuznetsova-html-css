@@ -6,7 +6,7 @@
 [![Photoshop](https://img.shields.io/badge/-Photoshop-24292f??style=for-the-badge&logo=Photoshop&logoColor=47c5fb)](https://github.com/Polina-Kuznetsova-html-css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-ytdt8??style=for-the-badge&logo=JavaScript&logoColor=fff600)](https://github.com/GoodyrevQA/SnakeQA)
 [![Miro](https://img.shields.io/badge/-Miro-6r9nx2??style=for-the-badge&logo=Miro&logoColor=ff6c36)](https://miro.com/app/board/uXjVP_77u_w=/)
-[![Figma](https://img.shields.io/badge/-Figma-24292f??style=for-the-badge&logo=Figma&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
+[![Figma](https://img.shields.io/badge/-Figma-6r9nx2??style=for-the-badge&logo=Figma&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
 [![HTML5](https://img.shields.io/badge/-HTML5-24292f??style=for-the-badge&logo=html5&logoColor=f68442)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
 [![CSS3](https://img.shields.io/badge/-CSS3-24292f??style=for-the-badge&logo=css3&logoColor=265eaa)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
 [![Cypress](https://img.shields.io/badge/-Cypress-24292f??style=for-the-badge&logo=Cypress&logoColor=d2d2d2)](https://github.com/GoodyrevQA/cypress.js)
