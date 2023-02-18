@@ -1,4 +1,4 @@
-[![Header](https://github.com/GoodyrevQA/GoodyrevQA/blob/main/assets/logo.png)](https://goodyrevqa.github.io/)
+[![Header](Polina-Kuznetsova-html-css/Polina-Kuznetsova-html-css/blob/main/assets/logo.png)](https://github.com/Polina-Kuznetsova-html-css)
 
 ## QA Engineer & Python researcher
 
@@ -26,6 +26,6 @@
 [![...](https://img.shields.io/badge/-...-24292f??style=for-the-badge&logo=...&logoColor=ffffff)](https://github.com/GoodyrevQA?tab=repositories)
 
 ### For communication:
-[![Telegram](https://img.shields.io/badge/-Telegram-24292f??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/Goodyrev)
+[![Telegram](https://img.shields.io/badge/-Telegram-24292f??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/ForsFortis)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polina-Kuznetsova-html-css&hide=issues,contribs&show_icons=true&theme=codeSTACKr)
