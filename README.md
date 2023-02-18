@@ -1,4 +1,4 @@
-[![Header](Polina-Kuznetsova-html-css/Polina-Kuznetsova-html-css/blob/main/assets/logo.png)](https://github.com/Polina-Kuznetsova-html-css)
+[![Header](https://github.com/Polina-Kuznetsova-html-css/Polina-Kuznetsova-html-css/blob/main/assets/logo.png)](https://github.com/Polina-Kuznetsova-html-css)
 
 ## QA Engineer & Python researcher
 
