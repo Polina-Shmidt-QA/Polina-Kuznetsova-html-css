@@ -6,7 +6,7 @@
 [![WordPress](https://img.shields.io/badge/-WordPress-121440??style=for-the-badge&logo=WordPress&logoColor=47c5fb)](https://github.com/polina-kuznetsova-html-css)
 [![Figma](https://img.shields.io/badge/-Figma-121440??style=for-the-badge&logo=Figma&logoColor=ffffff)](https://github.com/Polina-Kuznetsova-html-css)
 [![Tilda](https://img.shields.io/badge/-Tilda-121440??style=for-the-badge&logo=Tilda&logoColor=ffffff)](https://github.com/Polina-Kuznetsova-html-css)
-[![HTML5](https://img.shields.io/badge/-HTML5-121440??style=for-the-badge&logo=html5&logoColor=068442)](https://github.com/Polina-Kuznetsova-html-css)
+[![HTML5](https://img.shields.io/badge/-HTML5-121440??style=for-the-badge&logo=html5&logoColor=FD6A02)](https://github.com/Polina-Kuznetsova-html-css)
 [![CSS3](https://img.shields.io/badge/-CSS3-121440??style=for-the-badge&logo=css3&logoColor=265eaa)](https://github.com/Polina-Kuznetsova-html-css)
 [![Visual](https://img.shields.io/badge/-Visual_Studio_Code-121440??style=for-the-badge&logo=Visualstudiocode&logoColor=47c5fb)](https://github.com/Polina-Kuznetsova-html-css)
 [![Git](https://img.shields.io/badge/-Git-121440??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/Polina-Kuznetsova-html-css)
