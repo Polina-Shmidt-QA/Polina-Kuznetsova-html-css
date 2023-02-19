@@ -19,4 +19,4 @@
 
 E-mail: izo.tigranovna@yandex.ru
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polina-Kuznetsova-html-css&hide=issues,contribs&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polina-Kuznetsova-html-css&hide=issues,contribs&show_icons=true&theme=cobalt)
