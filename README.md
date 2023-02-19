@@ -16,6 +16,6 @@
 
 ### For communication:
 [![Telegram](https://img.shields.io/badge/-Telegram-24292f??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/ForsFortis)
-[![Email](https://img.shields.io/badge/-Email-24292f??style=for-the-badge&logo=Email&logoColor=47c5fb)(izo.tigranovna@yandex.ru)
+[!(https://img.shields.io/badge/-Email-24292f??style=for-the-badge&logo=Email&logoColor=47c5fb)(izo.tigranovna@yandex.ru)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polina-Kuznetsova-html-css&hide=issues,contribs&show_icons=true&theme=codeSTACKr)
