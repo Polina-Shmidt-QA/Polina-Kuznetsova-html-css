@@ -3,7 +3,8 @@
 ## QA Engineer & Python researcher
 
 ### Languages and Tools:
-[![Photoshop](https://img.shields.io/badge/-Photoshop-24292f??style=for-the-badge&logo=Photoshop&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-1E213D??style=for-the-badge&logo=Photoshop&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
+[![InDesign](https://img.shields.io/badge/-InDesign-24292f??style=for-the-badge&logo=Indesign&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
 [![WordPress](https://img.shields.io/badge/-WordPress-24292f??style=for-the-badge&logo=WordPress&logoColor=00749C)](https://github.com/polina-kuznetsova-html-css)
 [![Figma](https://img.shields.io/badge/-Figma-6r9nx2??style=for-the-badge&logo=Figma&logoColor=000000)](https://github.com/Polina-Kuznetsova-html-css)
 [![Tilda](https://img.shields.io/badge/-Tilda-6r9nx2??style=for-the-badge&logo=Tilda&logoColor=ffffff)](https://github.com/Polina-Kuznetsova-html-css)
