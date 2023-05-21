@@ -12,8 +12,8 @@
 [![Git](https://img.shields.io/badge/-Git-121440??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/Polina-Kuznetsova-html-css)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-121440??style=for-the-badge&logo=Photoshop&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
 [![InDesign](https://img.shields.io/badge/-InDesign-121440??style=for-the-badge&logo=Indesign&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
-[![Devtools](https://img.shields.io/badge/-Devtools-121440??style=for-the-badge&logo=Devtools&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
-[![Postman](https://img.shields.io/badge/-Postman-121440??style=for-the-badge&logo=Postman&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
+[![Devtools](https://img.shields.io/badge/-Devtools-121440??style=for-the-badge&logo=Devtools&logoColor=f43010)](https://github.com/Polina-Kuznetsova-html-css)
+[![Postman](https://img.shields.io/badge/-Postman-121440??style=for-the-badge&logo=Postman&logoColor=f43010)](https://github.com/Polina-Kuznetsova-html-css)
 [![Mirro](https://img.shields.io/badge/-Mirro-121440??style=for-the-badge&logo=Mirro&logoColor=1E213D)](https://github.com/Polina-Kuznetsova-html-css)
 [![...](https://img.shields.io/badge/-...-121440?style=for-the-badge&logo=...&logoColor=ffffff)](https://github.com/Polina-Kuznetsova-html-css?tab=repositories)
 
