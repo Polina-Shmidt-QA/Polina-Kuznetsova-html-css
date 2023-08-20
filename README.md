@@ -21,6 +21,6 @@
 ### For communication with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-24292f??style=for-the-badge&logo=Telegram&logoColor=47c5fb)](https://t.me/ForsFortis)
 
-E-mail: izo.tigranovna@yandex.ru
+E-mail: pollysmigth2020@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polina-Shmidt-QA&hide=issues,contribs&show_icons=true&theme=cobalt)
