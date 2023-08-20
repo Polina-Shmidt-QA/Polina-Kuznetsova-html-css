@@ -1,4 +1,5 @@
 [![Header](https://github.com/Polina-Shmidt-QA/Polina-Shmidt-QA/blob/main/assets/logo.png)](https://Polina-Shmidt-QA.github.io/)
+![Header](https://github.com/GoodyrevQA/GoodyrevQA/blob/main/assets/logo.png)](https://goodyrevqa.github.io/)
 
 ## Polina-Shmidt-QA
 
