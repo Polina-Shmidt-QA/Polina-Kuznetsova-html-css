@@ -10,7 +10,7 @@
 [![Devtools](https://img.shields.io/badge/-Devtools-121440??style=for-the-badge&logo=Devtools&logoColor=f43010)](https://github.com/Polina-Shmidt-QA)
 [![Postman](https://img.shields.io/badge/-Postman-121440??style=for-the-badge&logo=Postman&logoColor=f43010)](https://github.com/Polina-Shmidt-QA)
 [![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)](https://github.com/Polina-Shmidt-QA)
-[![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=0487af)](https://github.com/Polina-Shmidt-QA)
+[![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=47c5fb)](https://github.com/Polina-Shmidt-QA)
 [![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=79ae42)](https://github.com/Polina-Shmidt-Q)
 [![Mirro](https://img.shields.io/badge/-Mirro-121440??style=for-the-badge&logo=Mirro&logoColor=1E213D)](https://github.com/Polina-Shmidt-QA)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-24292f??style=for-the-badge&logo=JavaScript&logoColor=fff600)](https://github.com/Polina-Shmidt-QA)
