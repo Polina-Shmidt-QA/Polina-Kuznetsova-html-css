@@ -1,4 +1,4 @@
-[![Header](https://github.com/Polina-Shmidt-QA/Polina-Shmidt-QA-html-css/blob/main/assets/logo.png)](https://github.com/Polina-Shmidt-QA)
+[![Header](https://github.com/Polina-Shmidt-QA/Polina-Shmidt-QA/blob/main/assets/logo.png)](https://github.com/Polina-Shmidt-QA)
 
 ## Polina-Shmidt-QA
 
