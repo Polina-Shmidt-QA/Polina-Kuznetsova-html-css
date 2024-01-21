@@ -15,7 +15,7 @@
 [![Miro](https://img.shields.io/badge/-Mirro-121440??style=for-the-badge&logo=Mirro&logoColor=1E213D)](https://github.com/Polina-Shmidt-QA)
 [![Jira](https://img.shields.io/badge/-Jira-121440??style=for-the-badge&logo=Jira&logoColor=2684FF)](https://github.com/Polina-Shmidt-QA)
 [![Confluence](https://img.shields.io/badge/-Confluence-121440??style=for-the-badge&logo=Confluence&logoColor=0052CC)](https://github.com/Polina-Shmidt-QA)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ IDEA-121440??style=for-the-badge&logo=IntelliJ IDEA&logoColor=F97A12)](https://github.com/Polina-Shmidt-QA)
+[![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ_IDEA-121440??style=for-the-badge&logo=IntelliJIDEA&logoColor=F97A12)](https://github.com/Polina-Shmidt-QA)
 [![OpenShift](https://img.shields.io/badge/-OpenShift-121440??style=for-the-badge&logo=OpenShift&logoColor=EB2126)](https://github.com/Polina-Shmidt-QA)
 [![Kafka](https://img.shields.io/badge/-Kafka-121440??style=for-the-badge&logo=Kafka&logoColor=FFFFFF)](https://github.com/Polina-Shmidt-QA)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-24292f??style=for-the-badge&logo=JavaScript&logoColor=fff600)](https://github.com/Polina-Shmidt-QA)
