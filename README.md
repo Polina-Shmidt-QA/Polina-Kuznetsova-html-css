@@ -12,7 +12,7 @@
 [![Swagger](https://img.shields.io/badge/-Swagger-24292f??style=for-the-badge&logo=Swagger&logoColor=0cff00)](https://github.com/Polina-Shmidt-QA)
 [![SQL](https://img.shields.io/badge/-SQL-24292f??style=for-the-badge&logo=postgresql&logoColor=47c5fb)](https://github.com/Polina-Shmidt-QA)
 [![Charles](https://img.shields.io/badge/-Charles-24292f??style=for-the-badge&logo=Charles&logoColor=79ae42)](https://github.com/Polina-Shmidt-Q)
-[![Miro](https://img.shields.io/badge/-Mirro-121440??style=for-the-badge&logo=Mirro&logoColor=1E213D)](https://github.com/Polina-Shmidt-QA)
+[![Miro](https://img.shields.io/badge/-Miro-121440??style=for-the-badge&logo=Miro&logoColor=1E213D)](https://github.com/Polina-Shmidt-QA)
 [![Jira](https://img.shields.io/badge/-Jira-121440??style=for-the-badge&logo=Jira&logoColor=2684FF)](https://github.com/Polina-Shmidt-QA)
 [![Confluence](https://img.shields.io/badge/-Confluence-121440??style=for-the-badge&logo=Confluence&logoColor=0052CC)](https://github.com/Polina-Shmidt-QA)
 [![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ_IDEA-121440??style=for-the-badge&logo=IntelliJIDEA&logoColor=F97A12)](https://github.com/Polina-Shmidt-QA)
